@@ -1,13 +1,13 @@
 import styled from "styled-components";
 export const MainWindow = styled.div`
   position: fixed;
-  top: 50%;
+  top: 25%;
   left: 25%;
-  transform: translate(-25%, -50%);
+  transform: translate(-25%, -25%);
 `;
 export const MainTable = styled.div`
   position: fixed;
-  top: 50%;
-  left: 75%;
-  transform: translate(-75%, -50%);
+  top: 80%;
+  left: 80%;
+  transform: translate(-80%, -80%);
 `;
