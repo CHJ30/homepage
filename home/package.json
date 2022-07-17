@@ -20,7 +20,7 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build": "pnpm -r --filter ./packages react-scripts build",
+    "build": "react-scripts build",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "pnpm build && pnpm release:only",
