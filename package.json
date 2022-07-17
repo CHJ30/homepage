@@ -2,7 +2,7 @@
   "name": "home",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://chj30.github.io/homepage",
+  "homepage": "https://chj30.github.io/",
   "dependencies": {
     "@changesets/cli": "^2.23.2",
     "@testing-library/jest-dom": "^5.16.4",
