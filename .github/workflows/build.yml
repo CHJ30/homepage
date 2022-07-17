@@ -11,7 +11,7 @@ jobs:
       uses: actions/checkout@master
     - name: Build
       run: |
-        cd home && npm install && npm run build
+       npm install && npm run build
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.2.3
       with:
