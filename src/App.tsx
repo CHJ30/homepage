@@ -122,7 +122,7 @@ function App() {
               >
                 Twitter
               </Button>
-              <Button
+              {/* <Button
                 variant="menu"
                 size="sm"
                 onClick={() => {
@@ -134,7 +134,7 @@ function App() {
                 }}
               >
                 Weibo
-              </Button>
+              </Button> */}
               <Button
                 variant="menu"
                 size="sm"
@@ -148,12 +148,12 @@ function App() {
               >
                 Blog
               </Button>
-              <Tooltip text="18350825549" enterDelay={100} leaveDelay={500}>
+              {/* <Tooltip text="18350825549" enterDelay={100} leaveDelay={500}>
                 <Button variant="menu" size="sm">
                   weChat
                 </Button>
-              </Tooltip>
-              <Tooltip text="it‍'s secret" enterDelay={100} leaveDelay={500}>
+              </Tooltip> */}
+              <Tooltip text="it‍'s a secret" enterDelay={100} leaveDelay={500}>
                 <Button variant="menu" size="sm">
                   telegram
                 </Button>
